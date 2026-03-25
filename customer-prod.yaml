@@ -1,0 +1,11 @@
+#Configuration
+build:
+  version: "1.0"
+customer:
+    amessage: "Welcome to MyBank customer related REST APIs - PROD"
+    contactDetails:
+        name: "Suhas Bonde"
+        email: "suhas.bonde@msedcl.in"
+    onCallSupport:
+        - 478774454
+        - 999225556

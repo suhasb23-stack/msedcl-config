@@ -1,0 +1,12 @@
+#Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank transactions related REST APIs UAT"
+    contactDetails:
+        name: "Suhas Bonde"
+        email: "suhas.bonde@mahadiscom.in"
+    onCallSupport:
+        - 8956657798
+        - 7844546562
