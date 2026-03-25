@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 customer:
-    amessage: "Welcome to MyBank customer related REST APIs - UAT"
+    amessage: "Welcome to MyBank customer service related REST APIs - UAT"
     contactDetails:
         name: "Suhas Bonde"
         email: "suhas.bonde@mahadiscom.in"
