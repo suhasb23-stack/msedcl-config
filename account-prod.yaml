@@ -3,7 +3,7 @@ build:
     version: "1.0"
 
 accounts:
-    message: "Welcome to MyBank transactions related REST APIs Prod"
+    message: "Welcome to MyBank accounts related REST APIs Prod"
     contactDetails:
         name: "Mahesh Patil"
         email: "mahesh.patil@hotmail.com"
